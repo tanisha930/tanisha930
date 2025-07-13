@@ -13,7 +13,6 @@
 - Git & GitHub
 
 ## 📁 Projects Coming Soon
-- ✅ Invoice Generator using Python
 - ✅ Sales Data Analyzer (CSV + Graphs)
 - ✅ Health Data Visual dashboard 
 
