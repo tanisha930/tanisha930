@@ -20,7 +20,7 @@
 ## 🚀 My Projects
 ### Data summary toolkit
 A python program to summarise a csv file
-🔗 [View Code]_(https://github.com/tanisha930/My-work/blob/main/data_summary_toolkit.py)
+🔗 [View Code](https://github.com/tanisha930/My-work/blob/main/data_summary_toolkit.py)
 
 ---
 
