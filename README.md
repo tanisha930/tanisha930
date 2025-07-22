@@ -18,8 +18,14 @@
 
 
 ## 🚀 My Projects
+### Netflix Data cleaning project
+A python programme to cleaning dataset and visualise
+🔗 [View Code](https://github.com/tanisha930/My-work/blob/main/Netflix_data_cleaning.py)
+
+---
+
 ### Data summary toolkit
-A python program to summarise a csv file
+A python programme to summarise a csv file
 🔗 [View Code](https://github.com/tanisha930/My-work/blob/main/data_summary_toolkit.py)
 
 ---
