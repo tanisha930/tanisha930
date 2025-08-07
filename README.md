@@ -18,6 +18,12 @@
 
 
 ## 🚀 My Projects
+### Business idea generator
+ A python programme to collect skills and generate new business ideas
+ 🔗 [View Code](https://github.com/tanisha930/My-work/blob/main/Business_idea_generator.py)
+
+
+ ---
 ### Netflix Data cleaning project
 A python programme to cleaning dataset and visualise
 🔗 [View Code](https://github.com/tanisha930/My-work/blob/main/Netflix_data_cleaning.py)
