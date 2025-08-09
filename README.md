@@ -22,7 +22,7 @@
 ### Business idea Visualization 
 A python programme to collect skill set and generate a new business idea and show the business category, risk and visualise it.
 
-🔗 [View Code](https://github.com/tanisha930/My-work/blob/main/business_idea_visualization.py)
+🔗 [View Code](https://github.com/tanisha930/My-work/blob/0fe01cead24f0153238e2b93385a9f3127f49e93/.vscode/bussiness_idea_visualization.py)
 
 ---
 
