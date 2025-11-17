@@ -4,7 +4,7 @@
 💻 I build Python projects using Pandas, NumPy, Excel  
 📊 I'm passionate about data visualization and automation  
 🌱 Currently learning: Pandas, Matplotlib, Real-World CSV Projects  
-🚀 Goal: Become a Freelance Data Analyst with a strong portfolio
+🚀 Goal: Become a Freelance Data scientist  with a strong portfolio
 
 ## 🧰 Tools & Skills
 - Python • NumPy • Pandas
@@ -12,12 +12,17 @@
 - Matplotlib • Seaborn
 - Git & GitHub
 
-## 📁 Projects Coming Soon
-- ✅ Sales Data Analyzer (CSV + Graphs)
-- ✅ Health Data Visual dashboard 
-
 
 ## 🚀 My Projects
+
+### EDA on stock market data 
+A python programme using pandas, seaborne to calculate the stock market data and visualise its insights.
+
+🔗 [View Code](https://github.com/tanisha930/My-work/blob/0fe01cead24f0153238e2b93385a9f3127f49e93/.vscode/stock_market_eda.py)
+
+
+---
+
 
 ### Financial risk analyzer
 A python programme to read the csv file of many companies and Clean the Data set,  show risk and visualise it.
