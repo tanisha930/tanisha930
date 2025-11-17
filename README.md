@@ -18,7 +18,7 @@
 ### EDA on stock market data 
 A python programme using pandas, seaborne to calculate the stock market data and visualise its insights.
 
-🔗 [View Code](https://github.com/tanisha930/My-work/blob/0fe01cead24f0153238e2b93385a9f3127f49e93/.vscode/stock_market_eda.py)
+🔗 [View Code](https://github.com/tanisha930/My-work/blob/main/.vscoad2%2F.vscode%2Fstock_market_eda.py)
 
 
 ---
