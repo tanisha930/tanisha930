@@ -48,10 +48,8 @@ Currently leveling up in **Machine Learning** and **SQL** while expanding my pro
 ![SQL](https://img.shields.io/badge/SQL-in%20progress-orange?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**Other**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
 
 ---
 
@@ -83,9 +81,9 @@ Currently leveling up in **Machine Learning** and **SQL** while expanding my pro
 
 ## 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](your-kaggle-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/sidratul-muntaha-tanisha-427830373)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](sidratulmuntaha512@gmail.com.com)
+
 
 ---
 
