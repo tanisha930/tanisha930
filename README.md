@@ -1,96 +1,92 @@
-# Hi there 👋 I'm Tanisha!
 
-🎓 Statistics & Data Science undergraduate — Dhaka, Bangladesh  
-📊 Passionate about turning raw data into real insights  
-🌱 Currently learning: Machine Learning · SQL · Advanced Python  
-🚀 Goal: Build a strong portfolio and become a data scientist
+
+<h1 align="center">Hi there, I'm Tanisha 👋</h1>
+
+<p align="center">
+  <em>Statistics & Data Science student · Dhaka, Bangladesh</em><br/>
+  <em>Finding the story hidden in data, one project at a time</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=1D9E75&center=true&width=500&lines=Statistics+%26+Data+Science+Student;Python+%7C+Stata+%7C+SPSS+%7C+Excel;Learning+Machine+Learning+%26+SQL;Always+building%2C+always+learning" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧰 Tools & Skills
+> *"In God we trust. All others must bring data."* — W. Edwards Deming
 
-**Programming & Libraries**  
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+---
 
-**Statistical Tools**  
-`Stata` `SPSS` `Excel` `Google Sheets`
+## 🙋 About me
 
-**Currently Learning**  
-`Machine Learning (Scikit-learn)` `SQL` `Feature Engineering` `Model Evaluation`
+I'm a Statistics & Data Science undergraduate passionate about turning messy real-world data into clean insights. I work with Python for data wrangling and visualization, use Stata and SPSS for statistical analysis, and love building practical tools that solve everyday problems.
 
-**Other**  
-`Git & GitHub` `Jupyter Notebooks` `Data Cleaning` `EDA`
+Currently leveling up in **Machine Learning** and **SQL** while expanding my project portfolio.
+
+---
+
+## 🧰 Skills & Tools
+
+**Programming & Libraries**
+
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3d5a80?style=flat-square)
+
+**Statistical Tools**
+
+![Stata](https://img.shields.io/badge/Stata-1D9E75?style=flat-square)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+
+**Currently Learning**
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-in%20progress-orange?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-in%20progress-orange?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Other**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📈 EDA on Stock Market Data
-Exploratory analysis of stock market data — calculates key stats and visualizes trends using Pandas and Seaborn.  
-🔗 [View Code](https://github.com/tanisha930/My-work/blob/main/.vscoad2%2F.vscode%2Fstock_market_eda.py)
+| Project | Description | Tools |
+|---|---|---|
+| 📈 [Stock Market EDA](https://github.com/tanisha930/My-work/blob/main/.vscoad2%2F.vscode%2Fstock_market_eda.py) | Exploratory analysis of stock data — stats, trends, and visual insights | Python, Pandas, Seaborn |
+| 💰 [Financial Risk Analyzer](https://github.com/tanisha930/My-work/blob/0fe01cead24f0153238e2b93385a9f3127f49e93/.vscode/Ai_powered_financial_risk_analyzer.py) | Reads multi-company CSVs, cleans data, scores and visualizes financial risk | Python |
+| 🎬 [Netflix Data Cleaning](https://github.com/tanisha930/My-work/blob/main/Netflix_data_cleaning.py) | Cleans a real Netflix dataset — missing values, duplicates, formatting | Python, Pandas |
+| 🧹 [Data Cleaning Toolkit](https://github.com/tanisha930/My-work/blob/main/data_cleaning_toolkit.py) | Reusable toolkit to clean any CSV dataset automatically | Python |
+| 📊 [Business Idea Visualizer](https://github.com/tanisha930/My-work/blob/0fe01cead24f0153238e2b93385a9f3127f49e93/.vscode/bussiness_idea_visualization.py) | Takes user skills as input, generates a business idea + risk visualization | Python |
+| 📚 [Student Marks Analyzer](https://github.com/tanisha930/My-work/blob/main/student_marks_analyzer.py) | Finds topper, highlights weakest subjects, produces summary stats | Python |
+| 🥗 [Calorie Tracker (BD)](https://github.com/tanisha930/My-work/blob/main/calorie_tracker.py) | Tracks calories, protein & fat using a Bangladeshi food dataset | Python |
+| 🧾 [Invoice Generator](https://github.com/tanisha930/My-work/blob/main/invoice_generator.py) | Creates itemized bills with quantity, tax & total calculation | Python |
+| 💸 [Budget Tracker](https://github.com/tanisha930/My-work/blob/main/Budget_tracker.py) | Helps students manage daily and weekly expenses | Python |
+| 🎓 [Student Grade Calculator](https://github.com/tanisha930/My-work/blob/main/student_grade_calculator.py) | Converts marks to GPA and letter grade | Python |
 
 ---
 
-### 💰 Financial Risk Analyzer
-Reads CSV files of multiple companies, cleans the dataset, identifies financial risk levels, and visualizes results.  
-🔗 [View Code](https://github.com/tanisha930/My-work/blob/0fe01cead24f0153238e2b93385a9f3127f49e93/.vscode/Ai_powered_financial_risk_analyzer.py)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanisha930&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=1D9E75" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha930&layout=compact&hide_border=true&title_color=1D9E75" height="150"/>
+</p>
 
 ---
 
-### 🎬 Netflix Data Cleaning
-Cleans a real Netflix dataset — handles missing values, removes duplicates, standardizes formats, and produces summary stats.  
-🔗 [View Code](https://github.com/tanisha930/My-work/blob/main/Netflix_data_cleaning.py)
+## 📬 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](your-kaggle-url)
 
 ---
 
-### 🧹 Data Cleaning Toolkit
-A reusable Python toolkit that cleans any CSV dataset — handles missing values, duplicates, column formatting, and summary generation.  
-🔗 [View Code](https://github.com/tanisha930/My-work/blob/main/data_cleaning_toolkit.py)
-
----
-
-### 📊 Business Idea Visualizer
-Takes user skill input, generates a business idea, and visualizes the business category and risk profile.  
-🔗 [View Code](https://github.com/tanisha930/My-work/blob/0fe01cead24f0153238e2b93385a9f3127f49e93/.vscode/bussiness_idea_visualization.py)
-
----
-
-### 📚 Student Marks Analyzer
-Analyzes student scores, identifies the top performer, and highlights the weakest subjects per student.  
-🔗 [View Code](https://github.com/tanisha930/My-work/blob/main/student_marks_analyzer.py)
-
----
-
-### 🥗 Calorie Tracker
-Tracks calories, protein, and fat from Bangladeshi food items — tailored to a local context.  
-🔗 [View Code](https://github.com/tanisha930/My-work/blob/main/calorie_tracker.py)
-
----
-
-### 🧾 Invoice Generator
-Generates customer bills with itemized price, quantity, tax, and total calculation.  
-🔗 [View Code](https://github.com/tanisha930/My-work/blob/main/invoice_generator.py)
-
----
-
-### 💸 Budget Tracker
-Helps students manage and monitor daily and weekly expenses.  
-🔗 [View Code](https://github.com/tanisha930/My-work/blob/main/Budget_tracker.py)
-
----
-
-### 🎓 Student Grade Calculator
-Takes marks as input and returns GPA and letter grade based on grading scale.  
-🔗 [View Code](https://github.com/tanisha930/My-work/blob/main/student_grade_calculator.py)
-
----
-
-## 📬 Connect with Me
-
-- 💼 www.linkedin.com/in/sidratul-muntaha-tanisha-427830373
-- 📧 sidratulmuntahatanisha512@gmail.com
-
----
-
-*Always learning. Always building.*
-
+<p align="center"><em>Open to collaborations, internships, and interesting data problems ✨</em></p>
