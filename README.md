@@ -57,6 +57,7 @@ Currently leveling up in **Machine Learning** and **SQL** while expanding my pro
 
 | Project | Description | Tools |
 |---|---|---|
+| 🧾[gen-z behaviour](https://github.com/tanisha930/My-work/blob/0fe01cead24f0153238e2b93385a9f3127f49e93/.vscode/Gen-Zbehaviour.py)
 | 📊 [Mindsignal](https://github.com/tanisha930/My-work/blob/main/.vscoad2%2F.vscode%2Fmindsignal.py) | 
 | 📈 [Stock Market EDA](https://github.com/tanisha930/My-work/blob/main/.vscoad2%2F.vscode%2Fstock_market_eda.py) | Exploratory analysis of stock data — stats, trends, and visual insights | Python, Pandas, Seaborn |
 | 💰 [Financial Risk Analyzer](https://github.com/tanisha930/My-work/blob/0fe01cead24f0153238e2b93385a9f3127f49e93/.vscode/Ai_powered_financial_risk_analyzer.py) | Reads multi-company CSVs, cleans data, scores and visualizes financial risk | Python |
